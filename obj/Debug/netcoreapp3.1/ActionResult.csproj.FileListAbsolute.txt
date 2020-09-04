@@ -1,0 +1,5 @@
+C:\Users\Adel\Desktop\.Net\WebAPI-ActionResult\obj\Debug\netcoreapp3.1\ActionResult.csprojAssemblyReference.cache
+C:\Users\Adel\Desktop\.Net\WebAPI-ActionResult\obj\Debug\netcoreapp3.1\ActionResult.AssemblyInfoInputs.cache
+C:\Users\Adel\Desktop\.Net\WebAPI-ActionResult\obj\Debug\netcoreapp3.1\ActionResult.AssemblyInfo.cs
+C:\Users\Adel\Desktop\.Net\WebAPI-ActionResult\obj\Debug\netcoreapp3.1\ActionResult.csproj.CoreCompileInputs.cache
+C:\Users\Adel\Desktop\.Net\WebAPI-ActionResult\obj\Debug\netcoreapp3.1\ActionResult.MvcApplicationPartsAssemblyInfo.cache
